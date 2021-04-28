@@ -1,0 +1,16 @@
+Transcript_id,Transcript_type,Prediction
+AT1G29071.1,sncRNA,SNCRNA
+AT1G32385.1,sncRNA,SNCRNA
+AT1G45234.1,Housekeeping,HKRNA
+AT1G45246.1,Housekeeping,HKRNA
+AT1G63000.1,protein_coding,CRNA
+AT1G75166.1,sncRNA,SNCRNA
+AT2G03700.1,Housekeeping,HKRNA
+AT2G24255.1,protein_coding,CRNA
+AT3G24615.1,sncRNA,SNCRNA
+AT3G52565.1,Housekeeping,HKRNA
+AT4G15100.1,protein_coding,CRNA
+AT5G05795.1,Housekeeping,HKRNA
+AT5G22340.2,protein_coding,CRNA
+AT5G38650.1,protein_coding,CRNA
+AT5G58595.1,sncRNA,SNCRNA

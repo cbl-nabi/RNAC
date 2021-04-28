@@ -1,0 +1,16 @@
+Transcript_id,Transcript_type,Prediction
+B0412.7,sncRNA,SNCRNA
+C05C9.t1,Housekeeping,HKRNA
+C06B8.t2,Housekeeping,HKRNA
+C37A5.t1,Housekeeping,HKRNA
+C47E8.t1,Housekeeping,HKRNA
+F14F8.4,protein_coding,CRNA
+F36A2.13.1,protein_coding,CRNA
+F54E7.10,sncRNA,SNCRNA
+H03E18.1.2,protein_coding,CRNA
+K02C4.8,sncRNA,SNCRNA
+K09E9.5,sncRNA,SNCRNA
+M05D6.9,protein_coding,CRNA
+T04D3.t3,Housekeeping,HKRNA
+T27A3.9,sncRNA,SNCRNA
+Y23H5A.5d.2,protein_coding,CRNA

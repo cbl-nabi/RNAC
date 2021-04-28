@@ -1,0 +1,9 @@
+The LBP codes of GENOMIC descriptors for species can be obtained through calc_LBP.py script. Before executing calc_LBP.py, make sure the "DESC" directory has GENOMIC descriptors for the corrosponding species.
+
+or 
+
+The precomputed LBP codes of GENOMIC descriptors for species are available at the following link:
+https://drive.google.com/drive/folders/1TDSvUNWOYgiSxuntdxGiY6iBDHVoxa-6?usp=sharing
+
+The md5sum code is:
+LBPDESC.tar.gz	e9a3246aa735aab383477081e38feee1

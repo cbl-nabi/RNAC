@@ -1,0 +1,9 @@
+The GENOMIC descriptors for species are available  from the following link provided by authors of COME:
+
+https://onedrive.live.com/redir?resid=AFBF18A0971099A!51586&authkey=!AJaFH5EENUp0FVI&ithint=folder%2czip
+
+The md5sum codes are:
+322db88d5a6e3f55c83fc7efadc0b8fc  human.feature_vector.HDF5.zip
+1c5bdf2ec8fc8d4bb7fa20992290f996  mouse.feature_vector.HDF5.zip
+666eaabcc9638cbdbc19cb4eab13286e  plant.feature_vector.HDF5.zip
+fc45d43130e267822f6f2946134ee1a4  worm.feature_vector.HDF5.zip
