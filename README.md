@@ -57,6 +57,6 @@ The sample gtf files have been provided in the [*TEST_SAMPLES*](https://github.c
 
 Citation
 -----------
-Singh D., Madhawan A. and Roy J., *Identification of multiple RNAs using feature fusion*, 2021 
+Singh D., Madhawan A. and Roy J., *[Identification of multiple RNAs using feature fusion](https://doi.org/10.1093/bib/bbab178)*, 2021 
 
 Also, do not forget to cite [COME's Paper](https://academic.oup.com/nar/article/45/1/e2/2871107)
