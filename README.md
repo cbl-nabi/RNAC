@@ -17,6 +17,7 @@ Details of Source Code
 * **RNAC.py** - Code for testing unknown transcripts
 * **CALC_FEAT.py** - Code for Feature Extraction
 * **CALC_LBP.py** - Code for computing LBP codes of genomic descriptors
+* **DATASETS** - Test RNA sequences used to evaluate the performance of RNAC
 
 How to Use
 -----------
@@ -54,6 +55,10 @@ Note: RNAC supports Multiclass (cRNA, hkRNA, sncRNA and lncRNA) and Binary (codi
 The code has been tested with Python 3.6 (conda) and Ubuntu 14.04.
 
 The sample gtf files have been provided in the [*TEST_SAMPLES*](https://github.com/cbl-nabi/RNAC/tree/main/TEST_SAMPLES) folder to check the successful installation of RNAC.
+
+4. Datasets
+
+We have added the RNA sequences of Human, Mouse, *C. elegans* and *A. thaliana* species to compare the performance of other tools with RNAC directly.
 
 Citation
 -----------
